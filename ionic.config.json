@@ -1,5 +1,10 @@
 {
-  "name": "angular-10-material-10-ionic-5",
-  "integrations": {},
-  "type": "angular"
+  "defaultProject": "angular-ten-starter",
+  "projects": {
+    "angular-ten-starter": {
+      "name": "angular-ten-starter",
+      "integrations": {},
+      "type": "angular"
+    }
+  }
 }
